@@ -1,4 +1,4 @@
-package epicode.entities;
+package federicodipresa.entities;
 
 import javax.persistence.*;
 import java.time.LocalDate;

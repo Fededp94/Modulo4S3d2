@@ -1,4 +1,4 @@
-package epicode.entities;
+package federicodipresa.entities;
 
 public enum TipoEvento {
     PUBBLICO, PRIVATO

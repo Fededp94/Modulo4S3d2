@@ -1,9 +1,9 @@
-package epicode;
+package federicodipresa;
 
 import com.github.javafaker.Faker;
-import epicode.dao.EventsDAO;
-import epicode.entities.Event;
-import epicode.entities.TipoEvento;
+import federicodipresa.dao.EventsDAO;
+import federicodipresa.entities.Event;
+import federicodipresa.entities.TipoEvento;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

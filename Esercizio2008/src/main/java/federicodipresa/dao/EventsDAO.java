@@ -1,6 +1,6 @@
-package epicode.dao;
+package federicodipresa.dao;
 
-import epicode.entities.Event;
+import federicodipresa.entities.Event;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityTransaction;
